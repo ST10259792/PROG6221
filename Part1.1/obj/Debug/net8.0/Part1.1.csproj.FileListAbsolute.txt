@@ -1,0 +1,14 @@
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\bin\Debug\net8.0\Part1.1.exe
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\bin\Debug\net8.0\Part1.1.deps.json
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\bin\Debug\net8.0\Part1.1.runtimeconfig.json
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\bin\Debug\net8.0\Part1.1.dll
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\bin\Debug\net8.0\Part1.1.pdb
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\obj\Debug\net8.0\Part1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\obj\Debug\net8.0\Part1.1.AssemblyInfoInputs.cache
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\obj\Debug\net8.0\Part1.1.AssemblyInfo.cs
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\obj\Debug\net8.0\Part1.1.csproj.CoreCompileInputs.cache
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\obj\Debug\net8.0\Part1.1.dll
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\obj\Debug\net8.0\refint\Part1.1.dll
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\obj\Debug\net8.0\Part1.1.pdb
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\obj\Debug\net8.0\Part1.1.genruntimeconfig.cache
+C:\Users\Thaveshan Naidoo\OneDrive\MUZZI 2025 S1\PROG6221\Applications part 1\tests\Part1.1\obj\Debug\net8.0\ref\Part1.1.dll

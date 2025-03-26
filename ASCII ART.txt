@@ -1,0 +1,16 @@
+Console.WriteLine("   /\\   ");
+Console.WriteLine("  /  \\  ");
+Console.WriteLine(" /____\\ ");
+Console.WriteLine(" |    | ");
+Console.WriteLine(" |____| ");
+
+
+Console.WriteLine("  **     **  ");
+Console.WriteLine(" *  *   *  * ");
+Console.WriteLine("*    * *    *");
+Console.WriteLine(" *    *    * ");
+Console.WriteLine("  *       *  ");
+Console.WriteLine("   *     *   ");
+Console.WriteLine("    *   *    ");
+Console.WriteLine("     * *     ");
+Console.WriteLine("      *      ");
