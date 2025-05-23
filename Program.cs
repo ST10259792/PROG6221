@@ -4,10 +4,7 @@ Console.WriteLine("Playing MP3 file...");
 
 
 
-Console.ForegroundColor = ConsoleColor.White;
-Console.WriteLine("What is your name?");
 
-Console.ForegroundColor = ConsoleColor.White;
 string Name = Console.ReadLine();
 Console.WriteLine("Nice to meet you " + Name + ".");
 
