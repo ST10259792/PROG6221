@@ -3,14 +3,6 @@ Console.WriteLine("Playing MP3 file...");
 
 
 
-
-
-
-
-Console.ForegroundColor = ConsoleColor.White;
-Console.WriteLine("That is awesome! I'm doing great!");
-
-
 int point = 0;
 
 
