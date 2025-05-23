@@ -49,15 +49,6 @@ while (point == 0)
     }
     catch(Exception e)
     {
-        Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine("I didn't quite understand that. Could you rephrase?");
-    }
-    if (YesNo1 == 1)
-    {
-        point = 1;
-    }
-    if (YesNo1 == 2)
-    {
         Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine("Haha, but let me teach you anyway;)");
         point = 1;
