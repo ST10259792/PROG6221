@@ -5,12 +5,7 @@ Console.WriteLine("Playing MP3 file...");
 
 
 
-string Name = Console.ReadLine();
-Console.WriteLine("Nice to meet you " + Name + ".");
 
-Console.ForegroundColor = ConsoleColor.White;
-Console.WriteLine("How are you?");
-string howYou = Console.ReadLine();
 
 Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine("That is awesome! I'm doing great!");
