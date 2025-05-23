@@ -22,18 +22,6 @@ Console.WriteLine("That is awesome! I'm doing great!");
 int point = 0;
 
 
-//Q1
-Console.ForegroundColor = ConsoleColor.Blue;
-Console.WriteLine("Would you like to learn about Cyber Security? ");
-Console.ForegroundColor = ConsoleColor.Green;
-Console.WriteLine("1) Yes");
-Console.ForegroundColor = ConsoleColor.Red;
-Console.WriteLine("2) No");
-Console.ForegroundColor = ConsoleColor.Blue;
-Console.WriteLine("EG:Enter '1'");
-int YesNo1 =0;
-
-try {
     Console.ForegroundColor = ConsoleColor.White;
     YesNo1 = Convert.ToInt32(Console.ReadLine());
 }
