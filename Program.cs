@@ -3,13 +3,6 @@ Console.WriteLine("Playing MP3 file...");
 
 
 
-Console.ForegroundColor = ConsoleColor.Yellow;
-Console.WriteLine("Hello! Welcome to the Cybersecurity Awareness Bot. I'm here to help you stay safe online.");
-Console.WriteLine("   /\\   ");
-Console.WriteLine("  /  \\  ");
-Console.WriteLine(" /____\\ ");
-Console.WriteLine(" |    | ");
-Console.WriteLine(" |____| ");
 
 Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine("What is your name?");
